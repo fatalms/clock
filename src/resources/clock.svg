@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220px" height="220px"
+    viewBox="0 0 220 220">
+    <g transform="translate(110, 110)">
+        <g>
+            <circle r="108" fill="none" stroke-width="4" stroke="gray" />
+            <circle r="97" fill="none" stroke-width="11" stroke="black" stroke-dasharray="4,46.789082"
+                transform="rotate(-1.5)" />
+            <circle r="100" fill="none" stroke-width="5" stroke="black" stroke-dasharray="2,8.471976"
+                transform="rotate(-.873)" />
+        </g>
+        <circle r="7" fill="#000" />
+        <circle r="2" fill="#fff" />
+    </g>
+</svg>
