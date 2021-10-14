@@ -55,6 +55,11 @@
             box-shadow: 0 0 5px #00bfff;
         }
 
+        // .hand__item_selected
+        &_selected {
+            box-shadow: 0 0 5px #ff0000 !important;
+        }
+
         // .hand__item_hour
         &_hour {
             height: 25%;
