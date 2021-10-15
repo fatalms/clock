@@ -1,4 +1,19 @@
-# Testing task for MDink
+# Тестовое задание для MDink
+
+## Устнаовка и запуск 
+
+- `npm install`
+- `npm run start` 
+
+## Сборка 
+
+- `npm run build`
+
+## Интерфейс 
+
+После запуска приложения появятся часы. Чтобы изменить время нужно левой кнопкой мыши кликнуть по нужной стрелке и передвинуть её в необходимое положение. Для остановки стрелки достаточно кликнуть правой кнопкой мыши по области циферблата. 
+
+## Документация по create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
