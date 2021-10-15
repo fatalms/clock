@@ -11,9 +11,9 @@ function Clock() {
     const numbers = () => {
         return Array(12)
             .fill(0)
-            .map((item, i) => {
+            .map((_, i) => {
                 return (
-                    <div key={i} className={`fractions__item fraction fraction_${i + 1}`}>
+                    <div key={i} className={`fraction fraction_${i + 1}`}>
                         {12 - i}
                     </div>
                 );
